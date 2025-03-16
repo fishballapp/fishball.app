@@ -1,0 +1,26 @@
+{
+  "$schema": "https://linkz.fishball.app/config-schema.json",
+  "outDir": "dist",
+  "publicDir": "public",
+  "favicon": "fishball-logo-512.png",
+  "profilePicture": "fishball-logo-512.png",
+  "name": "fishball.app",
+  "links": [
+    {
+      "title": "WearDa Metronome",
+      "url": "https://play.google.com/store/apps/details?id=com.wearda.metronome"
+    },
+    {
+      "title": "Ace It: Life in the UK Test",
+      "url": "https://play.google.com/store/apps/details?id=app.fishball.ace_it.liuk"
+    },
+    {
+      "title": "鋤D計分器 (Big2Cal)",
+      "url": "https://play.google.com/store/apps/details?id=app.fishball.big2cal"
+    },
+    {
+      "title": "mjcal.app",
+      "url": "https://mjcal.app/"
+    }
+  ]
+}
