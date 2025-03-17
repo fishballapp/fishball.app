@@ -1,4 +1,6 @@
 {
-  "tasks": {},
+  "tasks": {
+    "build": "deno run -r -A jsr:@fishballpkg/linkz linkz.config.json -f"
+  },
   "imports": {}
 }
