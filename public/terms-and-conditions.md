@@ -1,76 +1,103 @@
 # Terms and Conditions
 
-By downloading or using any app published by Fishball Ltd, these terms will
-automatically apply to you – therefore, you should read them carefully before
-using the app. You are not allowed to copy or modify the app, any part of the
-app, or our trademarks in any way. You are not allowed to attempt to extract the
-source code of the app, and you also should not try to translate the app into
-other languages or create derivative versions. The app itself, and all
-trademarks, copyright, database rights, and other intellectual property rights
-related to it, still belong to Fishball Ltd.
+**Effective Date:** 16 June 2024
 
-Fishball Ltd is committed to ensuring that all its apps are as useful and
-efficient as possible. For that reason, we reserve the right to make changes to
-the app or to charge for its services at any time and for any reason. We will
-never charge you for the app or its services without making it very clear to you
-exactly what you are paying for.
+By downloading or using any application ("app") published by Fishball Ltd ("we,"
+"our," or "us"), you ("user" or "you") agree to comply with and be bound by the
+following terms and conditions. Please read them carefully before using our
+apps.
 
-Each app may store and process personal data that you have provided to us, to
-provide our services. It is your responsibility to keep your phone and access to
-the app secure. We therefore recommend that you do not jailbreak or root your
-phone, which is the process of removing software restrictions and limitations
-imposed by the official operating system of your device. This could make your
-phone vulnerable to malware, viruses, and malicious programs, compromise your
-phone’s security features, and could result in the app not working properly or
-at all.
+## 1. Intellectual Property Rights
 
-The app does use third-party services that declare their Terms and Conditions.
+All intellectual property rights concerning our apps, including but not limited
+to copyrights, trademarks, and database rights, remain the property of Fishball
+Ltd. You are prohibited from:
 
-## Link to Terms and Conditions of third-party service providers used by the app
+- Copying, modifying, or creating derivative works of any part of the app.
+- Attempting to extract the source code of the app.
+- Translating the app into other languages.
+- Using our trademarks in any manner not expressly permitted by us.
 
-- [Google AdMob](https://support.google.com/admob/answer/6128543)
-- [Google Play Services](https://policies.google.com/terms)
+## 2. App Usage and Charges
+
+We strive to ensure our apps are as useful and efficient as possible. We reserve
+the right to make changes to the app or to charge for its services at any time
+for any reason. Any charges will be clearly communicated to you in advance.
+
+## 3. Privacy Policy
+
+Our [Privacy Policy](./privacy-policy) outlines how we handle your personal data
+and protect your privacy when you use our apps.
+
+## 4. Terms of Use (EULA)
+
+This document serves as the End User License Agreement (EULA) for our apps. By
+using our apps, you agree to these terms.
+
+## 5. Subscriptions
+
+Some of our apps offer auto-renewable subscriptions that provide access to
+premium features or content. Specific details of each subscription, including
+title, length, and price, are presented within the respective app at the time of
+purchase.
+
+**General Terms Applicable to All Subscriptions:**
+
+- **Payment:** Subscription payments will be charged to your account upon
+  confirmation of purchase and will automatically renew unless canceled at least
+  24 hours before the end of the current period.
+- **Cancellation:** You can manage and cancel your subscriptions by accessing
+  your account settings on the respective platform (e.g., App Store, Google
+  Play) after purchase.
+- **Free Trials:** If a free trial is offered, any unused portion will be
+  forfeited upon purchasing a subscription.
+
+## 6. Account Deletion
+
+If the app supports account creation, it also provides an option to delete your
+account within the app. To delete your account:
+
+1. Navigate to the account settings section within the app.
+2. Select the "Delete Account" option.
+3. Follow the on-screen instructions to confirm your decision.
+
+Please note that deleting your account is irreversible. Upon deletion, all
+associated data that we are not legally required to retain will be permanently
+removed.
+
+## 7. Third-Party Services
+
+Our apps may use third-party services that have their own terms and conditions.
+Links to these are provided below:
+
 - [Apple App Store](https://www.apple.com/legal/privacy/data/en/app-store/)
+- [Google Play Services](https://policies.google.com/terms)
+- [Google AdMob](https://support.google.com/admob/answer/6128543)
 - [Google Firebase](https://firebase.google.com/terms)
 
-## Limitation of Liability
+## 8. Limitation of Liability
 
-Fishball Ltd will not be liable for any damages arising from the use or
-inability to use the app, including indirect, incidental, or consequential
-damages. This includes, but is not limited to, loss of data, loss of revenue, or
-business interruption.
+Fishball Ltd is not liable for any damages arising from the use or inability to
+use the app, including indirect, incidental, or consequential damages.
 
-## Governing Law & Jurisdiction
+## 9. Governing Law & Jurisdiction
 
-These Terms shall be governed by and construed in accordance with the laws of
-England and Wales. Any disputes arising out of or in connection with these Terms
-shall be subject to the exclusive jurisdiction of the courts of England and
-Wales.
+These terms are governed by the laws of England and Wales. Any disputes will be
+subject to the exclusive jurisdiction of the courts of England and Wales.
 
-## Termination of Service
+## 10. Termination of Service
 
-At some point, we may wish to update the app. The app is currently available on
-Android – the requirements for the system (and for any additional systems we
-decide to extend the availability of the app to) may change, and you’ll need to
-download the updates if you want to keep using the app. Fishball Ltd does not
-promise that it will always update the app so that it is relevant to you and/or
-works with the Android version that you have installed on your device. However,
-you promise to always accept updates to the application when offered to you. We
-may also wish to stop providing the app, and may terminate use of it at any
-time. If we decide to discontinue the app, we will make reasonable efforts to
-notify you in advance. Unless we tell you otherwise, upon any termination, (a)
-the rights and licenses granted to you in these terms will end; (b) you must
-stop using the app, and (if needed) delete it from your device.
+We may update or discontinue the app at any time. If discontinued, we will make
+reasonable efforts to notify you in advance. Upon termination, you must stop
+using the app and delete it from your device.
 
-## Changes to This Terms and Conditions
+## 11. Changes to These Terms and Conditions
 
-We may update our Terms and Conditions from time to time. Thus, you are advised
-to review this page periodically for any changes. We will notify you of any
-changes by posting the new Terms and Conditions on this page.
+We may update our Terms and Conditions from time to time. You are advised to
+review this page periodically for any changes. We will notify you of any changes
+by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of **2024-06-16**.
+## 12. Contact Us
 
-## Contact Us
-
-If you have any questions or suggestions about our Terms and Conditions, do not
-hesitate to contact us at yo@fishball.app.
+If you have any questions or suggestions about our Terms and Conditions, please
+contact us at [yo@fishball.app](mailto:yo@fishball.app).
