@@ -1,2 +1,6 @@
+# lagacy, linked to personal account
 google.com, pub-9942707880784010, DIRECT, f08c47fec0942fa0
+# current admob account linked to org account
 google.com, pub-6841292440539541, DIRECT, f08c47fec0942fa0
+# demo: https://docs.page/invertase/react-native-google-mobile-ads/common-reasons-for-ads-not-showing#test-ads-not-showing-up
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
