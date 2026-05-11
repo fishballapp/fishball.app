@@ -4,5 +4,3 @@ google.com, pub-9942707880784010, DIRECT, f08c47fec0942fa0
 google.com, pub-6841292440539541, DIRECT, f08c47fec0942fa0
 # demo: https://docs.page/invertase/react-native-google-mobile-ads/common-reasons-for-ads-not-showing#test-ads-not-showing-up
 google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
-# big2cal
-google.com, pub-6841292440539541, DIRECT, f08c47fec0942fa0
