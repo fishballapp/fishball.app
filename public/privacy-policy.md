@@ -1,10 +1,11 @@
 # Privacy Policy
 
-**Effective Date:** 16 June 2024
+**Effective Date:** 12 May 2026
 
-Fishball Ltd ("we," "our," or "us") develops and publishes a variety of
-applications ("apps"). These apps are provided as commercial services and are
-intended for use as is.
+Fishball Ltd ("we," "our," or "us") is a company registered in the United
+Kingdom that develops and publishes a variety of applications ("apps").
+These apps are provided as commercial services and are intended for use as
+is.
 
 This Privacy Policy informs visitors and users ("you," "your") regarding our
 policies on the collection, use, and disclosure of Personal Information when you
@@ -41,13 +42,42 @@ you. These services have their own privacy policies, which we encourage you to
 review:
 
 - **Google AdMob:** Used for displaying personalised advertisements within the
-  app. [Privacy & Messaging](https://support.google.com/admob/answer/10107561)
+  app. On iOS, ads are personalised only with your explicit consent via the
+  App Tracking Transparency prompt (see below); without consent, ads are
+  non-personalised.
+  [Privacy & Messaging](https://support.google.com/admob/answer/10107561)
 - **Google Play Services:** Provides core functionalities such as authentication
   and cloud storage. [Privacy Policy](https://policies.google.com/privacy)
 - **Apple App Store:** Facilitates app distribution and updates.
   [Privacy Policy](https://www.apple.com/legal/privacy/data/en/app-store/)
 - **Google Firebase:** Used for analytics and app performance monitoring.
   [Privacy and Security](https://firebase.google.com/support/privacy)
+- **PostHog:** Used for anonymous product analytics and feature flag delivery.
+  Stores an anonymised device identifier locally on your device; IP addresses
+  are truncated server-side before storage. Data is hosted in the European
+  Union. [Privacy Policy](https://posthog.com/privacy)
+- **RevenueCat:** Used to manage in-app purchases and subscriptions. Receives
+  an anonymised user identifier and purchase receipts from Apple App Store and
+  Google Play. Does not receive your payment card details.
+  [Privacy Policy](https://www.revenuecat.com/privacy)
+
+### iOS App Tracking Transparency
+
+On iOS, Apple requires us to ask for your permission before tracking your
+activity across other companies' apps and websites for personalised
+advertising (via Google AdMob). You can grant or decline this at the system
+prompt that appears the first time we serve an ad, and you can change your
+choice at any time in **Settings → Privacy & Security → Tracking**. Declining
+limits ads to non-personalised content; the app's other functionality is
+unaffected.
+
+### In-App Purchases
+
+Any in-app payments are processed entirely by Apple App Store (iOS) or Google
+Play (Android). We never see your payment card details. We use RevenueCat
+(above) to track entitlement status — for example, whether you have made a
+one-time purchase or have an active time-limited pass — so the app can unlock
+the corresponding features and support cross-device restore.
 
 ## 2. Log Data
 
@@ -65,7 +95,7 @@ performance.
 
 Cookies are files with a small amount of data that are commonly used as
 anonymous unique identifiers. These are sent to your browser from websites that
-you visit and are stored on your device’s internal memory.
+you visit and are stored on your device's internal memory.
 
 This Service does not explicitly use cookies. However, the app may use
 third-party code and libraries that use cookies to collect information and
@@ -94,7 +124,23 @@ no method of transmission over the internet, or method of electronic storage, is
 100% secure. While we work to safeguard your data, we cannot guarantee its
 absolute security.
 
-## 6. Links to Other Sites
+## 6. Data Retention
+
+We retain different categories of data for different periods:
+
+- **Analytics and error logs:** retained for up to 24 months from collection,
+  after which they are deleted or anonymised.
+- **Purchase entitlement data:** retained for as long as your purchase remains
+  valid (indefinitely for lifetime purchases), plus a reasonable period
+  afterwards to support cross-device restore, refunds, and dispute resolution
+  in line with Apple App Store and Google Play requirements.
+- **Local device data:** stored on your device for as long as the app remains
+  installed. Uninstalling the app removes this data from your device.
+
+You can request earlier deletion of data we hold by contacting us using the
+details in Section 12.
+
+## 7. Links to Other Sites
 
 This Service may contain links to other websites. If you click on a third-party
 link, you will be directed to that site. Please note that these external sites
@@ -102,7 +148,7 @@ are not operated by us. We strongly advise you to review the privacy policy of
 these websites. We have no control over and assume no responsibility for the
 content, privacy policies, or practices of any third-party sites or services.
 
-## 7. Children's Privacy
+## 8. Children's Privacy
 
 Our Services do not address anyone under the age of 13. We do not knowingly
 collect personally identifiable information from children under 13. In the case
@@ -111,11 +157,12 @@ will promptly delete it from our servers. If you are a parent or guardian and
 you are aware that your child has provided us with personal information, please
 contact us so we can take appropriate action.
 
-## 8. Your Rights (UK & EU Users)
+## 9. Your Rights (UK & EU Users)
 
-If you are located in the UK or European Union, you may have certain rights
-under applicable data protection laws, including the General Data Protection
-Regulation (GDPR). These may include the right to:
+If you are located in the United Kingdom or European Union, you have certain
+rights under applicable data protection laws, including the UK General Data
+Protection Regulation (UK GDPR), the Data Protection Act 2018, and the EU
+General Data Protection Regulation (GDPR). These may include the right to:
 
 - Access the personal data we hold about you;
 - Request rectification of inaccurate or incomplete data;
@@ -124,17 +171,26 @@ Regulation (GDPR). These may include the right to:
 - Request data portability;
 - Withdraw consent at any time where processing is based on consent.
 
-To exercise any of these rights, please contact us using the contact details
-provided below.
+To exercise any of these rights, please contact us using the details in
+Section 12. If you are in the UK and are not satisfied with our response, you
+can lodge a complaint with the Information Commissioner's Office (ICO) at
+[ico.org.uk](https://ico.org.uk).
 
-## 9. Changes to This Privacy Policy
+## 10. Governing Law
+
+This Privacy Policy and any disputes arising under it are governed by the laws
+of England and Wales. Fishball Ltd is a company registered in the United
+Kingdom and is subject to the UK General Data Protection Regulation (UK GDPR)
+and the Data Protection Act 2018.
+
+## 11. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. You are advised to review
 this page periodically for any changes. We will notify you of any significant
 changes by posting the new Privacy Policy on this page and, where appropriate,
 within the app.
 
-## 10. Contact Us
+## 12. Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, please
 contact us at yo@fishball.app.
